@@ -1,5 +1,5 @@
 # Hi there!
-### I am **Manish Kumar Das**
+## I am **Manish Kumar Das**
 Sophomore Undergraduate student
 Integrated M.Sc
 Applied Geology 
