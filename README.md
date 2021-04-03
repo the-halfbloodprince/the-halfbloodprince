@@ -24,8 +24,8 @@
 7. Python
 8. Gotta recall what else I got... check back later when I remember
 
-### Wanna <del>go on a date</del> reach out?
-Here's my number. JK. my mail: ammanishkumardas@gmail.com
+### Wanna say hi?
+Here's my mail: ammanishkumardas@gmail.com
 
 ### My README looks shit?
 <del>Well you beach, why don't you</del> Work In Progress dude... I'm just lazy af
