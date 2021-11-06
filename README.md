@@ -14,6 +14,7 @@
 2. Make cool stuff by staring at the screen all day and typing random stuff we don't understand
 3. Play Guitar... **hopefully someday**
 
+
 ### Skills I have:
 1. HTML (obviously)
 2. CSS (again...)
@@ -24,10 +25,12 @@
 7. Python
 8. Gotta recall what else I got... check back later when I remember
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-halfbloodprince&theme=midnight-purple&show_icons=true)
+
 ### Wanna say hi?
 Here's my mail: ammanishkumardas@gmail.com
 
-### Portfolio
+### Portfolio (WIP)
 https://manishkumardas.web.app/
 
 ### My README looks shit?
