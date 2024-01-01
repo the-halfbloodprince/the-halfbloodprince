@@ -21,9 +21,10 @@
 3. JS (uhumm...)
 4. SASS (lol... noob)
 5. React
-6. Node
-7. Python
-8. Gotta recall what else I got... check back later when I remember
+6. NextJS
+7. Node
+8. Python
+9. Gotta recall what else I got... check back later when I remember
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-halfbloodprince&theme=midnight-purple&show_icons=true)
 
