@@ -20,12 +20,13 @@
 1. HTML (obviously)
 2. CSS (again...)
 3. JS (uhumm...)
-4. SASS (lol... noob)
-5. React
-6. NextJS
-7. Node
-8. Python
-9. Gotta recall what else I got... check back later when I remember
+4. TypeScript
+5. SASS (lol... noob)
+6. React
+7. NextJS
+8. Node
+9. Python
+10. Gotta recall what else I got... check back later when I remember
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-halfbloodprince&theme=midnight-purple&show_icons=true)
 
