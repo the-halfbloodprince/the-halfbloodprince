@@ -6,6 +6,7 @@
 1. <del>A beast</del>   
 1. A struggling Front-End Web Developer
 1. A struggling Back-End Developer
+2. A struggling Full-Stack Developer and human
 
 ### Things I can do?
 1. <del>Sing or Dance</del>
