@@ -35,6 +35,7 @@ Here's my mail: ammanishkumardas@gmail.com
 
 ### Portfolio (WIP)
 Currently, I just have created a notion page as a portfolio, you can find it here: https://manishkumardas.notion.site/fe57916ff6904ca9844dea2e258686dc?v=8ed9353b04024f1aaeacd7bc8fe462b8&pvs=74
+Work on an actual portfolio website is in progress.
 
 ### My README looks shit?
 <del>Well you beach, why don't you</del> Work In Progress dude... I'm just lazy af
