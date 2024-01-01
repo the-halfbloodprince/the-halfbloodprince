@@ -28,7 +28,7 @@
 9. Python
 10. Gotta recall what else I got... check back later when I remember
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-halfbloodprince&theme=midnight-purple&show_icons=true)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-halfbloodprince&theme=midnight-purple&show_icons=true)
 
 ### Wanna say hi?
 Here's my mail: ammanishkumardas@gmail.com
