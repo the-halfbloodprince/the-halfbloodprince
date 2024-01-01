@@ -5,7 +5,7 @@
 ### <del>Who</del> What am I?
 1. <del>A beast</del>   
 1. A struggling Front-End Web Developer
-1. Right now I'm on my way to struggle in Back-End too...
+1. A struggling Back-End Developer
 
 ### Things I can do?
 1. <del>Sing or Dance</del>
