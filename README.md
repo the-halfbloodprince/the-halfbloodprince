@@ -22,7 +22,7 @@
 3. JS (uhumm...)
 4. TypeScript
 5. SASS (lol... noob)
-6. React
+6. React + Redux
 7. NextJS
 8. Node
 9. Python
