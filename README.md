@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/manish"><img src="https://api.daily.dev/devcards/v2/ZfFUfRxmzNBsjFDMYqjKb.png?type=wide&r=kzs" width="652" alt="Manish Kumar Das's Dev Card"/></a>
+
 # The Half Blood Prince
 ##### eh... just call me Manish xD
 
