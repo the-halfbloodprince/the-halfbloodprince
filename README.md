@@ -51,7 +51,7 @@
 
 ```
 
-<a href="https://app.daily.dev/manish"><img src="https://api.daily.dev/devcards/v2/ZfFUfRxmzNBsjFDMYqjKb.png?type=wide&r=kzs" width="652" alt="Manish Kumar Das's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/manish"><img src="https://api.daily.dev/devcards/v2/ZfFUfRxmzNBsjFDMYqjKb.png?type=wide&r=kzs" width="652" alt="Manish Kumar Das's Dev Card"/></a> -->
 
 ### <del>Who</del> What am I?
 1. <del>A beast</del>   
