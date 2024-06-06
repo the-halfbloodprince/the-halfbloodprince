@@ -72,19 +72,6 @@
 2. Make cool stuff by staring at the screen all day and typing random stuff we don't understand
 3. Play Guitar... **hopefully someday**
 
-
-### Skills I have:
-1. HTML (obviously)
-2. CSS (again...)
-3. JS (uhumm...)
-4. TypeScript
-5. SASS (lol... noob)
-6. React + Redux
-7. NextJS
-8. Node
-9. Python
-10. Gotta recall what else I got... check back later when I remember
-
 ### Wanna say hi?
 Here's my mail: ammanishkumardas@gmail.com
 
