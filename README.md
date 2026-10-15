@@ -76,7 +76,10 @@
 Here's my mail: ammanishkumardas@gmail.com
 
 ### Portfolio (WIP)
-manish.fyi
+[manish.fyi](https://www.manish.fyi)
+
+
+
 Work on an actual portfolio website is in progress. It's not high up in my priorities, I have other milestones yet to achieve till then.
 
 ### My README looks shit?
