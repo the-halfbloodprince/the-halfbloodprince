@@ -76,7 +76,7 @@
 Here's my mail: ammanishkumardas@gmail.com
 
 ### Portfolio (WIP)
-Currently, I just have created a simple plain Digital Garden page as a portfolio, you can find it here: www.themanish.in
+manish.fyi
 Work on an actual portfolio website is in progress. It's not high up in my priorities, I have other milestones yet to achieve till then.
 
 ### My README looks shit?
